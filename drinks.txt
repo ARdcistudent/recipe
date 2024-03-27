@@ -1,3 +1,4 @@
 - tee
 - kaffee
 - whiskey sour
+- whiskey sour OHNE Eiweiß
